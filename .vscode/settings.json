@@ -1,0 +1,5 @@
+{
+    "idf.portWin": "COM21",
+    "idf.flashType": "UART",
+    "C_Cpp.default.compilerPath": "g:/ESP-IDF/tools/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe"
+}

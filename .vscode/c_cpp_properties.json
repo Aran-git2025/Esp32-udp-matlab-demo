@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "G:\\ESP-IDF\\frameworks\\v5.1.6\\esp-idf\\components\\driver\\ledc\\include\\driver",
+                "G:\\ESP-IDF\\frameworks\\v5.1.6\\esp-idf\\components/**"
+            ],
+            "compilerPath": "g:/ESP-IDF/tools/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
